@@ -16,11 +16,11 @@ async def ajuda(ctx):
 
 @bot.command()
 async def youtube(ctx):
-  await ctx.send("**Link para o youtube do colégio:** https://www.youtube.com/c/eeepjoseribeirodamasceno?app=desktop")
+  await ctx.send("**Link para o youtube do colégio:** link")
 
 @bot.command()
 async def disc(ctx):
-  await ctx.send("**Link para o discord do curso:** https://discord.gg/CtgkXnCbVc")
+  await ctx.send("**Link para o discord do curso:** link")
 
 @bot.command()
 async def professores(ctx):
@@ -28,7 +28,7 @@ async def professores(ctx):
 
 @bot.command()
 async def instagram(ctx):
-  await ctx.send("**Link para o instagram do curso:** https://www.instagram.com/info_jrd/")
+  await ctx.send("**Link para o instagram do curso:** link")
 
 @bot.command()
 async def materias(ctx):
